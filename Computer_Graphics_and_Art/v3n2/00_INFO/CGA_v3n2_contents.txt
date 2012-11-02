@@ -1,0 +1,173 @@
+Computer Graphics and Art
+May, 1978
+Vol. 3, No. 2
+
+ISSUE NOTES:
+Untitled works that are part of a series by the same author will appear serialized by numerical order.
+Images 12 - 14 could be considered a series and could possibly be built as a single program.
+Images 19 - 27 could be considered a series and could possibly be built as a single program.
+
+
+** 1 [COVER, 4-7] **
+Title: "Flowers"
+Name: Dick Land & Dan Cohen
+Info: See also Vol. 3, No. 3 (page 31)
+
+** 2 [page 9] **
+Title: "Untitled Transformation"
+Name: Sten Kallin
+
+** 3 [page 10] **
+Title: "Maples in Storm"
+Name: Mutsuko Kunii Sasaki
+Info: made with Calcomp plotter
+
+** 4 [page 11] **
+Title: "Equidistant Space"
+Name: Peter Milojevic
+
+** 5 [page 12] **
+Title: Untitled 1 (SNELLY subroutine)
+Name: Hans Korneder
+
+** 6 [page 13] **
+Title: Untitled 2 (SNELIS subroutine)
+Name: Hans Korneder
+
+** 7 [page 13] **
+Title: Untitled 3 (SNELIN subroutine)
+Name: Hans Korneder
+
+** 8 [page 13] **
+Title: Untitled 4 (SNEKAO subroutine)
+Name: Hans Korneder
+
+** 9 [page 14] **
+Title: Untitled 5 (SNEWIS subroutine)
+Name: Hans Korneder
+
+** 10 [page 14] **
+Title: Untitled 6 (SNEZNT subroutine)
+Name: Hans Korneder
+
+** 11 [page 14] **
+Title: Untitled 7 (SNEBID subroutine)
+Name: Hans Korneder
+
+** 12 [page 14-15] **
+Title: Untitled 8 (SNERKT subroutine)
+Name: Hans Korneder
+
+** 13 [page 15] **
+Title: Untitled 9 (SNEBRW subroutine)
+Name: Hans Korneder
+
+** 14 [page 15] **
+Title: Untitled 10 (SNEBXS and SNEBYS subroutines)
+Name: Hans Korneder
+
+** 15 [page 16] **
+Title: Untitled 1 (from 'Hieroglyphs' series)
+Name: Aaron Marcus
+
+** 16 [page 16] **
+Title: "Noise Barrier"
+Name: Aaron Marcus
+Info: output as screenprint
+
+** 17 [page 17] **
+Title: Untitled 2 (from 'Hieroglyphs' series)
+Name: Aaron Marcus
+
+** 18 [page 17] **
+Title: Untitled 3 (from 'Hieroglyphs' series)
+Name: Aaron Marcus
+
+** 19 [page 20] **
+Title: Untitled 1 (picture number 1)
+Name: Reiner Schneeberger
+
+** 20 [page 21] **
+Title: Untitled 2 (picture number 2)
+Name: Reiner Schneeberger
+
+** 21 [page 22] **
+Title: Untitled 3 (picture number 3)
+Name: Reiner Schneeberger
+
+** 22 [page 22] **
+Title: Untitled 4 (picture number 4)
+Name: Reiner Schneeberger
+Info: See also page 26
+
+** 23 [page 23] **
+Title: Untitled 5 (picture number 5)
+Name: Reiner Schneeberger
+
+** 24 [page 23] **
+Title: Untitled 6 (picture number 6)
+Name: Reiner Schneeberger
+
+** 25 [page 24] **
+Title: Untitled 7 (picture number 7)
+Name: Reiner Schneeberger
+Info: Top-left image. See also page 26
+
+** 26 [page 24] **
+Title: Untitled 8 (picture number 8)
+Name: Reiner Schneeberger
+Info: Bottom-right image. See also page 28
+
+** 27 [page 25] **
+Title: Untitled 9 (picture number 9)
+Name: Reiner Schneeberger
+
+** 28 [page 27] **
+Title: Untitled 10 (picture number 10)
+Name: Reiner Schneeberger
+
+** 29 [page 30] **
+Title: "From the Square Series"
+Name: Roger Coqart
+Info: Bottom-left image. See Vol. 2, No. 4 (cover image). Output as painting on plexiglass
+
+** 30 [page 30] **
+Title: "Positive-Negative Grid with Perpendicular Elements"
+Name: Roger Coqart
+Info: Top-right image. Output as painting on plexiglass
+
+** 31 [page 30] **
+Title: Untitled (Painting on Plexiglass)
+Name: Roger Coqart
+Info: Bottom-right image. See also Vol. 1, No. 3 (page 24-25)
+
+** 32 [page 31] **
+Title: "Unimaginable Images"
+Name: Vera Molnar
+Info: Top-left image. Output as ink on paper
+
+** 33 [page 31] **
+Title: "196 Trapeziums Series"
+Name: Vera Molnar
+Info: Bottom-left image. Output with IBM 360, CRT Screen 2250, Benson plotter
+
+** 34 [page 31] **
+Title: Untitled (second variation from '196 Trapeziums Series')
+Name: Vera Molnar
+Info: Bottom-right image. Output as ink on paper.
+
+** 35 [page 32] **
+Title: "Zup Tze 30"
+Name: Paul Shao & Ken Dunker
+Info: Output as ink on paper.
+
+** 36 [page 33] **
+Title: "Bubble Series" (detail)
+Name: Duane Palyka
+
+** 37 [page 34] **
+Title: "S.M.F. 71889" (series)
+Name: Edvard Zajec & Matjaz Hmeljak
+Info: See also Vol. 2, No. 4 (page 20-25). Output on plotter.
+
+

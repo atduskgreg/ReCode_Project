@@ -1,0 +1,48 @@
+INSTRUCTIONS - PLEASE READ
+
+The RECODE PROJECT is built on the belief that good work should live on, be accessible, and that attributing original authors is essential to the community. It's also really handy when trying to trace the history of software art and, gosh darnit...the right thing to do. The instructions below are not meant to be a pain. Please follow these quick and simple steps to keep the archive SEARCHABLE and EASY TO USE for everyone - now and in the future. Thanks for contributing!
+
+
+In every project folder there are three folders:
+
+	A_original      => any info/documents about the original, especially original code
+	
+	B_translation   => Processing sketches that interpret the piece as directly as possible. There can be multiple versions.
+	
+	C_experimental  => Processing sketches that use the original or translations as a starting point to build something new
+
+
+
+To contribute to ReCode Project, please do the following (this will help us publish your work and keep things organized):
+
+	1.) Create a folder inside one of the three folders described above.
+
+	2.) Title the folder like this: "FirstName_LastName_Title"
+
+	3.) In your code, please put the following information at the top (if your code lives somewhere else this will help trace its origin and give proper credit to the original artist)
+
+		1. Include the following text: "This sketch is part of the ReCode Project - http://recodeproject.com"
+		
+		1. Include SOURCE, TITLE, NAME, and INFO data from the "__CGA_v#n#_contents.txt" file. This is located in the root folder above the specific project you're working on. 
+		
+		2. Include your name and the date, the title of your work, and the CC license described in the ReCode Project repo readme file (CC BY-SA 3.0).
+	
+	
+
+	EXAMPLE:
+
+	/*
+	This sketch is part of the ReCode Project - http://recodeproject.com
+	Source:	Computer Graphics and Art - May, 1976. Vol. 1, No. 2
+	Title: "From the Cube Series"
+	Name: Howard Fegarsky
+	Info: One in a series of 28 related works by the same author.
+
+	MATTHEW EPLER
+	"CUBES IN SPACE"
+	2012
+	Licensed under CC BY-SA 3.0. 
+	*/
+
+
+	

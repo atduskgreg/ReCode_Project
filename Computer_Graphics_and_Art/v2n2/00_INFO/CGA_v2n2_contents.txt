@@ -1,0 +1,51 @@
+Computer Graphics and Art
+May, 1977
+Vol. 2, No. 2
+
+ISSUE NOTES:
+Image 2 (series) would not make sense in Processing alone. Recommend using Processing and Arduino platform together. Images produced by the device (images 3 - shown on page 9) could, however be reproduced using only Processing.
+
+** 1 [COVER] **
+Title: "Helikos"
+Name: James Ver Hague
+Info: See Vol. 3 No. 1 (image 15, page 21 ). Computer designed plexiglass sculpture
+
+** 2 [page 4-12] **
+Title: Untitled (Computer displays optically superimposed on input devices)
+Name: Kenneth Knowlton
+Info: A physical device developed at Bell Laboratories and reprinted with permission from AT&T Company. 
+
+** 3 [page 9] **
+Title: Untitled (Sample result of a more general program for production of 4-color designs...)
+Name: Kenneth Knowlton
+
+** 4 [page 12] **
+Title: "Untitled Graphic"
+Name: Aldo Giorgini
+Info: not related to images 2 or 3.
+
+** 5 [page 33] **
+Title: "Gaussian Distribution"
+Name: Kerry Jones
+Info: Top image
+
+** 6 [page 33] **
+Title: "Emerging Man"
+Name: James R. Warner
+Info: Bottom image
+
+** 7 [page 34] **
+Title: "Ellipsoid"
+Name: Tony Martin
+Info: Top image
+
+** 8 [page 34] **
+Title: "Gyrating Forms"
+Name: James R. Warner
+Info: Bottom image
+
+** 9 [page 35] **
+Title: "Untitled Serigraphs"
+Name: Belfort Group
+Info: series of 3 images on the same page
+

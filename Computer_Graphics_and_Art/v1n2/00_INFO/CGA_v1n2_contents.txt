@@ -1,0 +1,153 @@
+Computer Graphics and Art
+May, 1976
+Vol. 1, No. 2
+
+ISSUE NOTES:
+NCC = National Computer Conference
+ICCH/2 = International Conference in the Computing Humanities
+SDL = Systems Dimensions Limited Collection, a Canadian company responsible for commissioning works at the 1976 National Computer Conference 
+
+** 1 [Cover] **
+Title: "Combinatorial Framework of the Ordinal 15"
+Name: Manfred Mohr
+Info: 
+
+** 2 [page 3] **
+Title: "From the Cube Series"
+Name: Howard Fegarsky
+Info: One in a series of 28 related works by the same author.
+
+** 3 [page 5, 32] **
+Title: Untitled
+Name: Charles Fritchie & Robert Morriss
+Info: See also: Vol. 3, No. 3 (page 32). Made with Tektronix 18" storage cathode ray tube. Computer used was Interdata 7/16. Programs written in FORTRAN. 
+
+
+** 4 [page 6] **
+Title: "Random Squares"
+Name: Herbert Franke
+Info: from the ICCH/2 Exhibition, a work related ot he Mondrian studies by M. Noll.
+
+** 5 [page 6] **
+Title: "Vitruvius Man"
+Name: Charles Csuri
+
+** 6 [page 7] **
+Title: Cathode Ray Tube with Light Pen (Module and Form Interactively Manipulated)
+Name: Charles Csuri
+
+** 7 [page 11] **
+Title: "Aeleana"
+Name: Manuel Barbadillo
+Info: from the SDL Collection
+
+** 8 [page 12] **
+Title: "Simulated Color Mosaic"
+Name: Hiroshi Kawano
+Info: from the ICCH/2 Exhibition
+
+** 9 [page 13] **
+Title: "Universal Declaration of Human Rights"
+Name: Kenneth Knowlton
+Info: from the SDL Collection
+
+** 10 [page 13] **
+Title: "Tapestry I" (detail)
+Name: Kenneth Knowlton
+Info: appeared on cover of "Computers & People" 8th annual Computer Art Exhibition
+
+** 11 [page 14] **
+Title: "The Cubic Limit Series"
+Name: Manfred Mohr
+Info: one of four works from ICCH/2. See also Vol 1, No 4. Image #3, page 6
+
+** 12 [page 15] **
+Title: Untitled (Designs for the Hanover Fair, 1970; commission by Siemens)
+Name: Georg Nees
+
+** 13 [page 15] **
+Title: "Max Bense Museum"
+Name: Georg Nees
+Info: from the SDL collection
+
+** 14 [page 16] **
+Title: "Segrid"
+Name: John Roy
+Info: See also Vol. 2 No. 3 (image 13, page 28) From the SDL Collection
+
+** 15 [page 16] **
+Title: "The Cube: Theme and Variation" (series)
+Name: Edward Zajec
+Info: See also Vol. 2 No. 3 (image 19, page 32). From the SDL Collection and ICCH/2
+
+** 16 [page 17] **
+Title: "Structure"
+Name: Zdenek Sykora
+info: from the SDL Collection
+
+** 17 [page 17] **
+Title: "Variation on 9 Squares"
+Name: Roger Vilder
+info: from the SDL Collection
+
+* 18 [page 19] **
+Title: Untitled (Designs for textiles)
+Name: Georg Nees
+Info: using the EUNET language developed by Dr. G. Nees and Professor Eusemann
+
+** 19 [page 18 - 24] **
+Title: "Digital Computer Based Sculpture Composed of Coloured Elements"
+Name: Lawrence J. Mazlack
+Info: a paper describeing a research project on 3D color pattern development using a cellular growth concept.
+
+** 20 [page 26] **
+Title: "Harmonic Story"
+Name: Jean-Claude Marquette
+Info: from NCC, 1976
+
+** 21 [page 26] **
+Title: "Detail from Tapestry"
+Name: Jean-Claude Marquette
+Info: from NCC, 1976
+
+** 22 [page 26] **
+Title: "Topographic Form" 
+Name: Sture Johannesson and Sten Kallin
+Info: from NCC, 1976
+
+** 23 [page 27] **
+Title: "Analog Graphics"
+Name: Herbert Franke
+
+
+** 24 [page 27] **
+Title: "Kubus-Serie"
+Name: Klaus Basset
+
+** 25 [page 29] **
+Title: Untitled
+Name: Herbert Franke
+
+** 26 [page 31] **
+Title: "Sea Fans"
+Name: Grace Hertlein
+Info: produced with microfilm plotter, 1974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

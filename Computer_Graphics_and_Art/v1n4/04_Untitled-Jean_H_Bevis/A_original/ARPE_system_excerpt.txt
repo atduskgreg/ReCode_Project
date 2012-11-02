@@ -1,0 +1,19 @@
+Computer Graphics and Art
+Vol. 1 No. 4
+November, 1976
+Page 8
+
+Author = Jean H. Bevis
+Language = (unknown - from the ARPE system developed by the author)
+Transcribed by: Matt Epler
+
+FOR I = 1 TO M
+A = ((M-I)* X(1) + (I-1)* U(1))/(M-1)
+B = ((M-I)* Y(1) + (I-1)* V(1))/(M-1)
+MOVE TO (A,B)
+FOR K = 2 TO N
+A = ((M-I* X(K) + (I-1)* U(K))/(M-1)
+B = ((M-I* Y(K) + (I-1)* V(K))/(M-1)
+DRAW TO (A,B)
+NEXT K
+NEXT I

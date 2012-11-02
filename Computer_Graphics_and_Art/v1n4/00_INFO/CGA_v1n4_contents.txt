@@ -1,0 +1,67 @@
+Computer Graphics and Art
+November, 1976
+Vol. 1, No. 4
+
+ISSUE NOTES:
+Untitled works that are part of a series by the same author will appear serialized by numerical order.
+
+** 1 [Cover] **
+Title: Untitled (Knitted Design by Computer)
+Name: W. G. Wolfgang
+
+** 2 [page 6, 7] **
+Title: "Random Walk Through Raster"
+Name: Frieder Nake
+
+** 3 [page 6] **
+Title: "Generative Drawings" (Cubic Limit Series)
+Name: Manfred Mohr
+Info: see also Vol 1, No 2. Image 11, page 14
+
+** 4 [page 8] **
+Title: Untitled (ARPE System Figures)
+Name: Jean H. Bevis
+Info: includes code excerpts
+
+** 5 [page 8] **
+Title: "Phase Pattern" (detail of P145)
+Name: Manfred Mohr
+
+** 6 [page 9] **
+Title: "Seated Nude"
+Name: Jean H. Bevis
+
+** 7 [page 10 - 17] **
+Title: Untitled (Computer generated weave structures)
+Name: W. G. Wolfgang
+Info: Includes code excerpts, output from PDP-11/20
+
+** 8 [page 28] **
+Title: Untitled 1 (Computer graphics at the University of Munich - West Germany)
+Name: Various (Reiner Schneeberger and unnamed students)
+Info: See also Vol. 2 No. 3 (image 10, pages 14-15) for more, including code. Input to computer on punch cards
+
+** 9 [page 29] **
+Title: Untitled 2 (Computer graphics at the University of Munich - West Germany)
+Name: Various (Reiner Schneeberger and unnamed students)
+Info: input to computer on punch cards
+
+** 10 [page 30] **
+Title: Untitled 3 (Computer graphics at the University of Munich - West Germany)
+Name: Various (Reiner Schneeberger and unnamed students)
+Info: Top-right image. Input to computer on punch cards
+
+** 11 [page 31] **
+Title: Untitled 4 (Computer graphics at the University of Munich - West Germany)
+Name: Various (Reiner Schneeberger and unnamed students)
+Info: input to computer on punch cards
+
+
+
+
+
+
+
+
+
+

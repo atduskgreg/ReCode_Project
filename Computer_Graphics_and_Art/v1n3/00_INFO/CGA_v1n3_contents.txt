@@ -1,0 +1,87 @@
+Computer Graphics and Art
+August, 1976
+Vol. 1, No. 3
+
+ISSUE NOTES:
+Untitled works that are part of a series by the same author will appear serialized by numerical order.
+
+
+** 1 [Cover] **
+Title: "Gente" - Grau 3
+Name: Waldemar Cordeiro
+Info: 
+
+** 2 [page 3] **
+Title: "Double Checkerboard"
+Name: Barbara Dwyer
+
+** 3 [page 15] **
+Title: Untitled (Photographic reversal of graphic from the report "Physics Dialogs for Student Use")
+Name: Alfred Bork
+
+** 4 [page 18 - 22] **
+Title: "Frabric Design System"
+Name: Kai Chu
+Info: built for use with linear printer. Written in FORTRAN and APL
+
+** 5 [page 24] **
+Title: "Permutable"
+Name: Roger Coqart
+Info: See also Vol. 3, No. 2 (page 30)
+
+** 6 [page 25] **
+Title: "Traveling through the Square Series" (detail)
+Name: Roger Coqart
+
+** 7 [page 25] **
+Title: "Structured Square Series -- Inwards"
+Name: Roger Coqart
+
+** 8 [page 28, 31] **
+Title: Untitled 1 (study for the 'monumental tapestries' or murals for modular decoration)
+Name: Belfort Group
+Info: top image
+
+** 9 [page 28, 31] **
+Title: Untitled 2 (study for the 'monumental tapestries' or murals for modular decoration)
+Name: Belfort Group
+Info: bottom image
+
+** 10 [page 29] **
+Title: Untitled 3 (further examples of studies for murals in ceramics, aluminum, etc. from printer output)
+Name: Belfort Group
+Info: top image
+
+** 11 [page 29] **
+Title: Untitled 4 (further examples of studies for murals in ceramics, aluminum, etc. from printer output)
+Name: Belfort Group
+Info: bottom image
+
+** 12 [page 30, 31] **
+Title: Untitled 5 (Fish-like forms vie with rectilinear patterns...)
+Name: Belfort Group
+Info: top two images in top group
+
+** 13 [page 30] **
+Title: Untitled 6 (Fish-like forms vie with rectilinear patterns...)
+Name: Belfort Group
+Info: bottom image in top group
+
+** 14 [page 30] **
+Title: Untitled 7 (A sample of the vertical designs generated for the subway murals)
+Name: Belfort Group
+
+** 15 [page 31] **
+Title: Untitled 8 (Detail of a larger design for murals...)
+Name: Belfort Group
+
+** 16 [page 32, 33] **
+Title: "Exploitation Quantitative et Qualitative do Programme"
+Name: Belfort Group
+Info: IBM 370-168 Benson plotter
+
+
+
+
+
+

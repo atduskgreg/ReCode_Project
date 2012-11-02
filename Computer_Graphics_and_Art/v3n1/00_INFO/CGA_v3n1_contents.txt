@@ -1,0 +1,102 @@
+Computer Graphics and Art
+February, 1978
+Vol. 3, No. 1
+
+ISSUE NOTES:
+
+** 1 [COVER] **
+Title: Untitled
+Name: Unknown
+
+** 2 [page 5] **
+Title: "Wernher von Braun"
+Name: E. T. Manning
+Info: Photo of output of optical processor for spatial quantization
+
+** 3 [page 6] **
+Title: "P-197A"
+Name: Manfred Mohr
+Info: Heliogravure
+
+** 4 [page 7] **
+Title: "P211 A" 
+Name: Manfred Mohr
+
+** 5 [page 7] **
+Title: "Signs and Co-Signs" (P193B)
+Name: Manfred Mohr
+
+** 6 [page 8] **
+Title: "P210"
+Name: Manfred Mohr
+Info: includes both images on the page
+
+** 7 [page 9] **
+Title: "P-196A"
+Name: Manfred Mohr
+
+** 8 [page 13] **
+Title: "Computer Planar Projection"
+Name: Ramon J. Masters
+Info: includes both images on page
+
+** 9 [page 14] **
+Title: "Computer Curvilinear Projection: Convex/Concave"
+Name: Ramon J. Masters
+Info: Includes both images on page
+
+** 10 [page 14] **
+Title: "Reflecting Cylinder Anamorphosis (Niceron)"
+Name: Ramon J. Masters
+
+** 11 [page 16] **
+Title: "Reflecting Cone Anamorphosis (DuBreuil)"
+Name: Ramon J. Masters
+
+** 12 [page 17] **
+Title: "Computer Reflecting Cylinder Anamorphosis"
+Name: Ramon J. Masters
+
+** 13 [page 18] **
+Title: "Computer Reflecting Cone Anamorphosis"
+Name: Ramon J. Masters
+
+** 14 [page 19] **
+Title: "Computer Cone Construction Anamorphosis"
+Name: Ramon J. Masters
+
+** 15 [page 21] **
+Title: "Voluta"
+Name: James Ver Hague
+Info: See Vol. 2 No. 2 (cover). Computer generated sculptural form. Final product is in plexiglass.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
