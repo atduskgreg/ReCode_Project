@@ -1,7 +1,7 @@
 ReCode Project
 ==============
-http://www.recodeproject.com/ 
-@ReCodeProject
+http://www.recodeproject.com/  
+@ReCodeProject  
 info@recodeproject.com
 
 An active archive of computer art.
