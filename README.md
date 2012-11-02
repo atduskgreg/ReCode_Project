@@ -1,14 +1,13 @@
 ReCode Project
 ==============
 http://www.recodeproject.com/  
+info@recodeproject.com  
 @ReCodeProject  
-info@recodeproject.com
+
 
 An active archive of computer art.
 
-This repo aims to resurrect forgotten works of computer art and port them to a language that is widely used, easily accessibly to beginners, and advanced enough to build upon the original artworks to create new ones. 
-
-We have chosen Processing as the common language for this project due to its widespread use (particularly in educational environments), extensive documentation, and active community of developers and contributors. 
+This repo aims to resurrect forgotten works of computer art and port them to a language that is widely used, easily accessibly to beginners, and advanced enough to build upon the original artworks to create new ones. For these reasons, we have chosen Processing as the common language for this project due to its widespread use (particularly in educational environments), extensive documentation, and active community of developers and contributors. 
 
 All sketches are licensed under CC BY-SA 3.0.
 
@@ -16,7 +15,8 @@ All sketches are licensed under CC BY-SA 3.0.
 ** WE'RE HAVING A LAUNCH HACKATHON! **
 -------------------------------------------------
 * When: Saturday, November 17, 2012. 10am - 7pm
-* Where: ITP 721 Broadway, New York City && IRC Freenode: http://webchat.freenode.net/ channel = #recodeproject
+* Where: ITP 721 Broadway, New York City 
+         && IRC Freenode: http://webchat.freenode.net/ channel = #recodeproject
 * Join/Details: http://recodeproject.eventbrite.com 
 
 
