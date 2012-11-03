@@ -17,32 +17,30 @@ To contribute to ReCode Project, please do the following (this will help us publ
 
 	1.) Create a folder inside one of the three folders described above.
 
-	2.) Title the folder like this: "FirstName_LastName_Title"
+	2.) Title the folder like this: "FirstName_LastName"
 
 	3.) In your code, please put the following information at the top (if your code lives somewhere else this will help trace its origin and give proper credit to the original artist)
 
-		1. Include the following text: "This sketch is part of the ReCode Project - http://recodeproject.com"
+		a. Include the following text: "This sketch is part of the ReCode Project - http://recodeproject.com"
 		
-		1. Include SOURCE, TITLE, NAME, and INFO data from the "__CGA_v#n#_contents.txt" file. This is located in the root folder above the specific project you're working on. 
+		b. Include SOURCE, TITLE, NAME, and INFO data for the piece (refer to the info folder for the issue if you're unsure)
 		
-		2. Include your name and the date, the title of your work, and the CC license described in the ReCode Project repo readme file (CC BY-SA 3.0).
+		c. Include your name and the date, the title of your work, and the CC license described in the ReCode Project repo readme file (CC BY-SA 3.0).
 	
 	
 
 	EXAMPLE:
 
-	/*
-	This sketch is part of the ReCode Project - http://recodeproject.com
-	Source:	Computer Graphics and Art - May, 1976. Vol. 1, No. 2
-	Title: "From the Cube Series"
-	Name: Howard Fegarsky
-	Info: One in a series of 28 related works by the same author.
-
-	MATTHEW EPLER
-	"CUBES IN SPACE"
-	2012
-	Licensed under CC BY-SA 3.0. 
-	*/
+	// This sketch is part of the ReCode Project - http://recodeproject.com
+	// From Computer Graphics and Art vol1 no3 pg 25
+	// by Roger Coqart
+	// "Structured Square Series -- Inwards", drawing 28 x 28 cm.
+	// Other works in the series are "Horizontal Rows", "Outwards", as
+	// well as the "Permutation" works.
+	// 
+	// Kyle McDonald
+	// 2012
+	// Creative Commons license CC BY-SA 3.0
 
 
 	
