@@ -7,7 +7,10 @@ info@recodeproject.com
 
 An active archive of computer art.
 
-This repo aims to resurrect forgotten works of computer art and port them to a language that is widely used, easily accessibly to beginners, and advanced enough to build upon the original artworks to create new ones. For these reasons, we have chosen Processing as the common language for this project due to its widespread use (particularly in educational environments), extensive documentation, and active community of developers and contributors. 
+This repo aims to resurrect forgotten works of computer art and port them to a language that is widely used, easily accessibly to beginners, and advanced enough to build upon the original artworks to create new ones. For these reasons, we have chosen Processing as the common language for this project due to its widespread use (particularly in educational environments), extensive documentation, and active community of developers and contributors.  
+  
+Example by Kyle McDonald: https://github.com/matthewepler/ReCode_Project/tree/master/Computer_Graphics_and_Art/v2n3/10_Random_Squares-William_Kolomyjec )  
+ 
 
 All sketches are licensed under CC BY-SA 3.0.
 
@@ -21,9 +24,8 @@ All sketches are licensed under CC BY-SA 3.0.
 
 
 HOW TO USE THIS REPO
---------------------
+--------------------  
 If you would like to contribute, follow these steps:  
-(for a great example see Kyle McDonald's project: https://github.com/matthewepler/ReCode_Project/tree/master/Computer_Graphics_and_Art/v2n3/10_Random_Squares-William_Kolomyjec )
 
 1.	Dowload the pdfs from the Downloads section in this repo.
 
