@@ -22,7 +22,8 @@ All sketches are licensed under CC BY-SA 3.0.
 
 HOW TO USE THIS REPO
 --------------------
-If you would like to contribute, follow these steps:
+If you would like to contribute, follow these steps:  
+(for a great example see Kyle McDonald's project: https://github.com/matthewepler/ReCode_Project/tree/master/Computer_Graphics_and_Art/v2n3/10_Random_Squares-William_Kolomyjec )
 
 1.	Dowload the pdfs from the Downloads section in this repo.
 
@@ -30,7 +31,7 @@ If you would like to contribute, follow these steps:
 
 3.	Fork the project, then clone the git to your machine. 
 
-4.	Add your folder according to the instructions txt file. 
+4.	Add your folder according to the instructions txt file.
 
 5.	Put one jpeg image inside your project folder.
 *(Please only put one or the repo will become massive. Eventually these will live on the website and you'll be able to add more) 
