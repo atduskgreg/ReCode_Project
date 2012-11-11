@@ -59,7 +59,7 @@ Q: Are you going to do more of this?
 A: Yes. This is a first round that we hope will reveal ways to improve the project. After the hackathon event we will begin a round of research to find some really awesome retro computer art, hopefully with more original code.
 	
 Q: Can I help?  
-A: Sure! Send us stuff you'd like to see translated. [primary email TBA]
+A: Sure! Send us stuff you'd like to see translated. 
 	
 Q: Who are you?  
 A: I'm Matt. I'm a graduate student at NYU's Interactive Telecommunications Program. 
